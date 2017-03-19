@@ -1,0 +1,66 @@
+{
+    "date_and_time": {
+        "date": "2017/03/19",
+        "time": "21:21:11",
+        "timestamp": "1489958471"
+    },
+    "measurements": {
+        "co2_ppm": "411",
+        "humidity_RH": "83",
+        "pm25_AQICN": "6",
+        "pm25_AQIUS": "17",
+        "pm25_ugm3": "4.0",
+        "temperature_C": "27.3",
+        "temperature_F": "81.1",
+        "voc_ppb": "-1"
+    },
+    "serial_number": "HARGYT6",
+    "settings": {
+        "followed_station": "0",
+        "is_aqi_usa": true,
+        "is_concentration_showed": false,
+        "is_indoor": false,
+        "is_lcd_on": true,
+        "is_network_time": true,
+        "is_temperature_celsius": true,
+        "language": "en-GB",
+        "lcd_brightness": 0,
+        "node_name": "living room",
+        "power_saving": {
+            "2slots": [
+                {
+                    "hour_off": 9,
+                    "hour_on": 7
+                },
+                {
+                    "hour_off": 22,
+                    "hour_on": 18
+                }
+            ],
+            "mode": "yes",
+            "yes": [
+                {
+                    "hour": 5,
+                    "minute": 0
+                },
+                {
+                    "hour": 0,
+                    "minute": 0
+                }
+            ]
+        },
+        "speed_unit": "mph",
+        "timezone": "Indian/Mauritius"
+    },
+    "status": {
+        "app_version": "1.1532",
+        "battery": 100,
+        "datetime": 1489958471,
+        "model": "10",
+        "sensor_pm25_serial": "00000110030927032158",
+        "sync_time": 260000,
+        "system_version": "KBG57F70",
+        "used_memory": 0,
+        "wifi_strength": 3
+    }
+}
