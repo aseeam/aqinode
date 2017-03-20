@@ -1,17 +1,17 @@
 {
     "date_and_time": {
-        "date": "2017/03/19",
-        "time": "21:21:11",
-        "timestamp": "1489958471"
+        "date": "2017/03/20",
+        "time": "08:48:22",
+        "timestamp": "1489999702"
     },
     "measurements": {
-        "co2_ppm": "411",
-        "humidity_RH": "83",
-        "pm25_AQICN": "6",
-        "pm25_AQIUS": "17",
-        "pm25_ugm3": "4.0",
-        "temperature_C": "27.3",
-        "temperature_F": "81.1",
+        "co2_ppm": "408",
+        "humidity_RH": "88",
+        "pm25_AQICN": "3",
+        "pm25_AQIUS": "8",
+        "pm25_ugm3": "2.0",
+        "temperature_C": "25.2",
+        "temperature_F": "77.4",
         "voc_ppb": "-1"
     },
     "serial_number": "HARGYT6",
@@ -20,7 +20,7 @@
         "is_aqi_usa": true,
         "is_concentration_showed": false,
         "is_indoor": false,
-        "is_lcd_on": true,
+        "is_lcd_on": false,
         "is_network_time": true,
         "is_temperature_celsius": true,
         "language": "en-GB",
@@ -37,7 +37,7 @@
                     "hour_on": 18
                 }
             ],
-            "mode": "yes",
+            "mode": "no",
             "yes": [
                 {
                     "hour": 5,
@@ -55,10 +55,10 @@
     "status": {
         "app_version": "1.1532",
         "battery": 100,
-        "datetime": 1489958471,
+        "datetime": 1489999702,
         "model": "10",
         "sensor_pm25_serial": "00000110030927032158",
-        "sync_time": 260000,
+        "sync_time": 860000,
         "system_version": "KBG57F70",
         "used_memory": 0,
         "wifi_strength": 3
